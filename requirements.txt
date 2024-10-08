@@ -1,0 +1,10 @@
+flask
+flask_cors
+Gunicorn
+transformers
+torch
+nltk
+python-dotenv
+datasets
+numpy
+requests

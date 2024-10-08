@@ -1,0 +1,14 @@
+# Virtual environment
+.env
+venv/
+.env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+dara_credentials.json
+
+
+/blenderbot_finetuned/
+.vercel
