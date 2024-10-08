@@ -8,3 +8,4 @@ python-dotenv
 datasets
 numpy
 requests
+waitress
