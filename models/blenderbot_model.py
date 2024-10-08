@@ -17,5 +17,5 @@ def chat(query):
     # print(response)
     return response
     
-# test function
+
 # print(chat(user_input))
